@@ -9,8 +9,8 @@ import 'package:pokedex/src/UI/homePage.dart';
 
 void main () async {
   
-  runApp(MaterialApp(
+  runApp( MaterialApp(
     home:  HomePage(),
-    theme: ThemeData(hintColor: Colors.white),
+    
   ));
 }
